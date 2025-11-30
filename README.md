@@ -1,4 +1,4 @@
 # puzzle
 
 **project for friend** 
-mini game
+*mini game*
