@@ -1,0 +1,20 @@
+@import url('https://fonts.cdnfonts.com/css/avatar');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Avatar', sans-serif;
+}
+
+body {
+    background-color: #fff;
+}
+
+.bg_video {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    bottom: 1px;
+    z-index: -100;
+}
